@@ -1,3 +1,3 @@
 # fixDeadLinks
 
-MediaWiki maintenance script that replaces dead links for the latest archive.org snapshot
+MediaWiki maintenance script to replace dead links for the latest archive.org snapshot
